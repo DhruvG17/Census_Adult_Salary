@@ -1,4 +1,4 @@
-# Adult Salary Classification Project Overview::
+# Adult Salary Classification Project Overview:
 * Created a classifer that estimates if an individual's salary is either above or below $50,000 annually with an accuracy rate of 84 percent. 
 * Downloaded the data from Kaggle: https://www.kaggle.com/uciml/adult-census-income
 * Engineered features by creating dummy variables for the categorical features used in the algorithm and improved the imbalance in the training data since the percentage of indivituals making under $50,000 annually was far exceeding the percentage making over $50,000. 
