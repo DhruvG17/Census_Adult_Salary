@@ -23,7 +23,11 @@
 
 ## Data Visulization 
 * Used a heatmap to check for correlation between the income and numeric features 
+![](images/Heatmap.png)
+
 * Created histograms to check for correlation with the hue equal to the income 
+![](images/OccupationvsIncome.png)
+![](images/EduvsIncome.png)
 
 ## Data Preperation (for the algorithms)
 * Used dummy encoding for the 'marital.status' and 'occupation' features 
@@ -42,3 +46,5 @@ I decided to evaluate the top two performing models [Random Forest and Logisitic
 Random forest completely outperformed the logistic regression model in every category. 
 * Random Forest Accuracy: 84 percent
 * Random FOrest F1 Score: 65 percent
+
+![](images/Confusion.png)
