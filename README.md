@@ -45,6 +45,6 @@ I decided to evaluate the top two performing models [Random Forest and Logisitic
 
 Random forest completely outperformed the logistic regression model in every category. 
 * Random Forest Accuracy: 84 percent
-* Random FOrest F1 Score: 65 percent
+* Random Forest F1 Score: 65 percent
 
 ![](images/Confusion.png)
